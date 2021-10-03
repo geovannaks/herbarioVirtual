@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A360578270A482C00264DB8 /* Plant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A360577270A482C00264DB8 /* Plant.swift */; };
 		9AB6B95A270913CE00D61F11 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB6B959270913CE00D61F11 /* AppDelegate.swift */; };
 		9AB6B95C270913CE00D61F11 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB6B95B270913CE00D61F11 /* SceneDelegate.swift */; };
 		9AB6B95E270913CE00D61F11 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB6B95D270913CE00D61F11 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A360577270A482C00264DB8 /* Plant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plant.swift; sourceTree = "<group>"; };
 		9AB6B956270913CE00D61F11 /* herbarioVirtual.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = herbarioVirtual.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AB6B959270913CE00D61F11 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9AB6B95B270913CE00D61F11 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				9AB6B959270913CE00D61F11 /* AppDelegate.swift */,
 				9AB6B95B270913CE00D61F11 /* SceneDelegate.swift */,
 				9AB6B95D270913CE00D61F11 /* ViewController.swift */,
+				9A360577270A482C00264DB8 /* Plant.swift */,
 				9AB6B95F270913CE00D61F11 /* Main.storyboard */,
 				9AB6B962270913CF00D61F11 /* Assets.xcassets */,
 				9AB6B964270913CF00D61F11 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				9AB6B95E270913CE00D61F11 /* ViewController.swift in Sources */,
 				9AB6B96E2709141500D61F11 /* PlantTableViewCell.swift in Sources */,
+				9A360578270A482C00264DB8 /* Plant.swift in Sources */,
 				9AB6B95A270913CE00D61F11 /* AppDelegate.swift in Sources */,
 				9AB6B95C270913CE00D61F11 /* SceneDelegate.swift in Sources */,
 			);
